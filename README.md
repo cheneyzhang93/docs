@@ -1,2 +1,2 @@
 # faststarter-static
-faststarter fontend
+faststarter frontend
