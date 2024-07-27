@@ -1,1 +1,1 @@
-# faststarter-doc
+# faststarter-docs
