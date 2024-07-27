@@ -1,2 +1,1 @@
-# faststarter-static
-faststarter frontend
+# faststarter-doc
